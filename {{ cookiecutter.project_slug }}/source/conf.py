@@ -36,4 +36,5 @@ myst_enable_extensions = [
     "tasklist",
     "colon_fence",
     "deflist",
+    "strikethrough",
 ]
